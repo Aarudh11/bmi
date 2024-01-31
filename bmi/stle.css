@@ -1,0 +1,38 @@
+.mainbox4 {
+  background-color: white;
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+input {
+  width: 50%;
+  padding: 15px;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  border: 1px solid lightgray;
+  font-size: 16px;
+}
+input:focus {
+  outline: none;
+  border: 1px solid royalblue;
+}
+.btn {
+  background-color: black;
+  width: 100%;
+  color: white;
+  padding: 17px 30px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.flex0 {
+  display: flex;
+  gap: 12px;
+}
+.title {
+  font-size: 42px;
+}
+h3 {
+  color: black;
+}
